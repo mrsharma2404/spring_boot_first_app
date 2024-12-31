@@ -1,0 +1,4 @@
+-- INSERT INTO users (name, email) VALUES ('John Doe', 'john.doe@example.com');
+-- INSERT INTO users (name, email) VALUES ('Jane Doe', 'jane.doe@example.com');
+-- INSERT INTO users (name, email) VALUES ('Alice Smith', 'alice.smith@example.com');
+-- INSERT INTO users (name, email) VALUES ('Bob Brown', 'bob.brown@example.com');
